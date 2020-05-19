@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NoteAPP_practice
+
+  Created by 葉育彣 on 2020/5/15.
+  Copyright © 2020 郭子毅. All rights reserved.
+*/
+//中文
+"new.note"="新的筆記本....";
+"list"="筆記本清單";
